@@ -1,3 +1,3 @@
 # React Shop Portfolio Project
 
-[Demo]("https://IrishaFil.github.io/react-shop"),
+[Demo]("https://IrishaFil.github.io/react-shop").
